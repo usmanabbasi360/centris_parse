@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d28d1b-4e83-4f96-9e5b-ee9dd1e2c140" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/centris/123.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.json" beforeDir="false" />
-    </list>
+    <list default="true" id="01d28d1b-4e83-4f96-9e5b-ee9dd1e2c140" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +56,7 @@
       <workItem from="1620639784649" duration="2327000" />
       <workItem from="1620643837875" duration="4436000" />
       <workItem from="1620666817191" duration="5786000" />
+      <workItem from="1620675572655" duration="352000" />
     </task>
     <servers />
   </component>
@@ -75,6 +73,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1620675569793">
