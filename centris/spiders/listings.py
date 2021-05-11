@@ -7,6 +7,9 @@ import json
 class ListingsSpider(scrapy.Spider):
     name = 'listings'
     allowed_domains = ['www.centris.ca']
+    # for aquarium
+    http_user = 'user'
+    http_pass = 'userpass'
     # скрипт для splash
     script = '''
     function main(splash, args)
